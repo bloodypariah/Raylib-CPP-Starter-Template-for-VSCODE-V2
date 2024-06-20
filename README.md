@@ -1,3 +1,15 @@
+Game of Life Simulator
+This simulator used the Raylib CPP starter template as based. For more information you can check the details further below.
+The main/.exe file is not added in this repository. You can compile it with the use of VSCode compile/run command.
+
+Enjoy the simulator with the use of the following keyboard commands!
+ - "R key" will randomly populate the grid with "live" cells.
+ - "Return key" will start the simulation.
+ - "Space bar" will stop the simulation.
+ - "C key" will clear all the "live" cells.
+ - You can also use the "mouse" to populate the the grid with "live" cells manually!
+
+===============================================================================================
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
