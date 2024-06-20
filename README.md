@@ -1,4 +1,6 @@
 Game of Life Simulator
+
+
 This simulator used the Raylib CPP starter template as based. For more information you can check the details further below.
 The main/.exe file is not added in this repository. You can compile it with the use of VSCode compile/run command.
 
