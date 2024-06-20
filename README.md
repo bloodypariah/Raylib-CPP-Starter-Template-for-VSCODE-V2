@@ -11,7 +11,7 @@ Enjoy the simulator with the use of the following keyboard commands!
  - "C key" will clear all the "live" cells.
  - You can also use the "mouse" to populate the the grid with "live" cells manually!
 
-===============================================================================================
+==============================================================================
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
